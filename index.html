@@ -1,9 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Hello World</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
 <body>
-    <h1>Hello, World!</h1>
+    <header>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+    </header>
+    
+    <section class="blog-posts">
+        {% for post in site.posts %}
+            <article>
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <p>{{ post.excerpt | strip_html }} <a href="{{ post.url }}">Read more</a></p>
+                <small>Posted on {{ post.date | date: "%B %d, %Y" }}</small>
+            </article>
+        {% endfor %}
+    </section>
 </body>
 </html>
