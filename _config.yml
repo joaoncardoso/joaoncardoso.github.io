@@ -1,10 +1,10 @@
 # Site settings
-title: Your Name
-email: your.email@example.com
+title: João Cardoso
+email: joao.nuno380@gmail.com
 description: >-
-  Personal website with blog posts, CV, and contact information.
+  Personal website.
 baseurl: "" # Leave empty for username.github.io
-url: "https://username.github.io" # Change 'username' to your GitHub username
+url: "https://joaoncardoso.github.io" # Change 'username' to your GitHub username
 
 # Build settings
 markdown: kramdown
