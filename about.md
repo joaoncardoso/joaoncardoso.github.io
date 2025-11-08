@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-![Cover Photo](/assets/images/cover_photo.jpg|400)
+![Cover Photo](/assets/images/cover_photo.jpg){: width="400"}
 
 Hello, I'm João. I recently finished my Master's in Computer Science at Instituto Superior Técnico in Lisbon, with a dissertation on SAE feature visualization for language models.
 
