@@ -1,0 +1,24 @@
+# Site settings
+title: Your Name
+email: your.email@example.com
+description: >-
+  Personal website with blog posts, CV, and contact information.
+baseurl: "" # Leave empty for username.github.io
+url: "https://username.github.io" # Change 'username' to your GitHub username
+
+# Build settings
+markdown: kramdown
+theme: minima # Using GitHub Pages default theme for now
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
