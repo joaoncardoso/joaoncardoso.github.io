@@ -6,29 +6,9 @@ permalink: /about/
 
 # About Me
 
-[Add your photo here if you'd like]
+![Cover Photo](/assets/images/cover_photo.jpg)
 
-## Who I Am
-
-I'm [Your Name], a [your profession/role]. I completed my Master's in AI at [University Name].
-
-## What I Do
-
-[Brief description of your current work or research interests]
-
-## Interests
-
-- Interest 1
-- Interest 2
-- Interest 3
-
-## Education
-
-**Master's in Artificial Intelligence**  
-[University Name], [Year]
-
-**[Previous Degree]**  
-[University Name], [Year]
+Hello, I'm João. I recently finished my Master's in Computer Science at Instituto Superior Técnico in Lisbon, with a dissertation on SAE feature visualization for language models.
 
 ---
 

@@ -5,14 +5,14 @@ title: Home
 
 # Welcome to My Website
 
-Hello! I'm [Your Name], and this is my personal website.
+Hello! I'm João, and this is my personal website.
 
 ## What You'll Find Here
 
-- **[About Me](/about)** - Learn more about my background and interests
-- **[CV](/cv)** - My professional experience and qualifications
-- **[Blog](/blog)** - Thoughts, tutorials, and updates
-- **[Contact](/contact)** - Get in touch with me
+- **[About Me](/about)**
+- **[CV](/cv)**
+- **[Blog](/blog)**
+- **[Contact](/contact)**
 
 ## Recent Posts
 
